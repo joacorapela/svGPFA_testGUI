@@ -1,0 +1,18 @@
+# files
+*~
+*.pyc
+*.swp
+*.bak
+*.html
+.*lck*
+slurm-*
+.nfs*
+.ipynb*
+
+# directories
+results/
+figures/
+data/
+old/
+notes/
+log/
